@@ -25,6 +25,6 @@ The above video is in Hindi but English Subtitles are also available.
 
 Note:-
 As this Project was for My Mobile Application Development Subject in my college I had created a Report on this project which contains it’s images technologies used, etc. 
-It can be view using the following link: - https://drive.google.com/drive/folders/1UI0ljYJHrvelbuG-XgX2RytdovslMtAC?usp=sharing  
+It can be view using the following link: - https://drive.google.com/file/d/1QpjCZ9AFMIKm3By3P81N7tojndk7i_Cd/view?usp=drive_link
 
 
